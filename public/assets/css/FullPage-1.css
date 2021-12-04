@@ -1,0 +1,24 @@
+div#section1.section {
+  background-color: black;
+}
+
+div#section2.section {
+  background-color: #005b99;
+}
+
+div#section3.section {
+  background-color: #007a5e;
+}
+
+div#slide1.slide {
+  background-color: #e0aa0f;
+}
+
+div#slide2.slide {
+  background-color: #e23d28;
+}
+
+div#slide3.slide {
+  background-color: #ffa3b2;
+}
+
